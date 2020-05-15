@@ -1,0 +1,12 @@
+		private void read3040Bacen()
+        {
+            Doc3040 doc = new Doc3040();
+            XmlSerializer serializer = new XmlSerializer(typeof(Doc3040));
+
+            using (Stream reader = new FileStream(@"C:\temp\sample.xml", FileMode.Open))
+            {
+                doc = (Doc3040)serializer.Deserialize(reader);
+            }
+
+            MessageBox.Show(doc.clientes.Count.ToString());
+        }

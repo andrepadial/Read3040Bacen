@@ -1,0 +1,8 @@
+C:\Users\pa0044\source\repos\Read3040Bacen\Read3040Bacen\bin\Release\netcoreapp3.1\Read3040Bacen.deps.json
+C:\Users\pa0044\source\repos\Read3040Bacen\Read3040Bacen\bin\Release\netcoreapp3.1\Read3040Bacen.dll
+C:\Users\pa0044\source\repos\Read3040Bacen\Read3040Bacen\bin\Release\netcoreapp3.1\Read3040Bacen.pdb
+C:\Users\pa0044\source\repos\Read3040Bacen\Read3040Bacen\obj\Release\netcoreapp3.1\Read3040Bacen.csproj.CoreCompileInputs.cache
+C:\Users\pa0044\source\repos\Read3040Bacen\Read3040Bacen\obj\Release\netcoreapp3.1\Read3040Bacen.AssemblyInfoInputs.cache
+C:\Users\pa0044\source\repos\Read3040Bacen\Read3040Bacen\obj\Release\netcoreapp3.1\Read3040Bacen.AssemblyInfo.cs
+C:\Users\pa0044\source\repos\Read3040Bacen\Read3040Bacen\obj\Release\netcoreapp3.1\Read3040Bacen.dll
+C:\Users\pa0044\source\repos\Read3040Bacen\Read3040Bacen\obj\Release\netcoreapp3.1\Read3040Bacen.pdb
